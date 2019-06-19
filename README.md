@@ -3,6 +3,9 @@ Durante el 13 y 14 de Junio se llevo a cabo el NVIDIA bootcamp en el marco works
 
 En el evento, Stephany Bonilla, Manuela Bravo, Kateryne Bonilla y David Calles estudiantes del programa de Ingeniería electrónica representaron a la Universidad Javeriana junto con la asesoría de German Montañez (profesor de cátedra) y lograron quedar en primer puesto. Como resultado, el equipo logro reducir el tiempo de ejecución del programa de 4.5 minutos a solo 3.59 segundos.
 
+# El equipo ganador
+![Winner team](D9EOvlWXkAArYyw.png)
+
 # Caracteristicas del Hardware
 GPU Nvidia V100
 
